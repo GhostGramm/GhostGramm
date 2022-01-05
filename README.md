@@ -23,8 +23,8 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman" width="45" height="45"/> </a>  
+    <a href="https://https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/typescript.png" alt="typescript" width="48" height="48"/> </a> 
+    <a href="https://unity.com" target="_blank"> <img src="https://img.icons8.com/unity.png" alt="postman" width="45" height="45"/> </a>  
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="(https://docs.microsoft.com/)" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png" width="45" height="45"/> </a> 
