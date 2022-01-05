@@ -25,9 +25,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="48" height="48"/> </a> 
     <a href="https://unity.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/unity.png" alt="postman" width="45" height="45"/> </a>  
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="(https://docs.microsoft.com/)" target="_blank"> <img src="https://img.icons8.com/ios-filled/100/000000/c-sharp-logo.png" width="45" height="45"/> </a> 
+    <a href="(https://docs.microsoft.com/)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="45" height="45"/> </a> 
     
 </p>
 <br/>
