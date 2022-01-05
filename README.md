@@ -5,6 +5,8 @@
 
 ## 🙋‍♂️ About Me
 
+- 🎮 I’m a **Game Developer'.**
+
 - 🔭 I’m currently working on **Javascript, Typescript and .NET projects.**
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
