@@ -7,7 +7,7 @@
 
 - 🎮 I’m a **Game Developer'.**
 
-- 🔭 I’m currently working on **Javascript, Typescript and "Something Huge" projects.**
+- 🔭 I’m currently working on **Javascript, Typescript and "Something Huge" personal projects, so you might not be seeing my commits but have no doubts.**
 
 - 🌱 I’m currently learning **alot of other new stuffs.**
 
