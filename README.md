@@ -71,7 +71,7 @@
 ### `>> stats.exe`
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostGramm&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GhostGramm&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=58A6FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
