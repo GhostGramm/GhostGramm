@@ -1,73 +1,101 @@
+<div align="center">
 
+```
+ ██████╗ ██╗  ██╗ ██████╗ ███████╗████████╗
+██╔════╝ ██║  ██║██╔═══██╗██╔════╝╚══██╔══╝
+██║  ███╗███████║██║   ██║███████╗   ██║   
+██║   ██║██╔══██║██║   ██║╚════██║   ██║   
+╚██████╔╝██║  ██║╚██████╔╝███████║   ██║   
+ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   
+```
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Marshal Onah (GHOST)</h1>
+**Game Developer & Backend Engineer**  
+`5+ years` · `5+ shipped titles` · `200k+ users`
 
+[![Visitor](https://komarev.com/ghpvc/?username=GhostGramm&color=00FF41&style=flat&label=visitors)](https://github.com/GhostGramm)
+[![Followers](https://img.shields.io/github/followers/GhostGramm?style=social)](https://github.com/GhostGramm?tab=followers)
 
-## 🙋‍♂️ About Me
+</div>
 
-- 🎮 I’m a **Game Developer'.**
+---
 
-- 🔭 I’m currently working on **Javascript, Typescript and "Something Huge" personal projects, so you might not be seeing my commits but have no doubts.**
+### `>> about.exe`
 
-- 🌱 I’m currently learning **alot of other new stuffs.**
+```diff
++ 5+ years building high-performance gameplay systems and scalable .NET APIs
++ Shipped 5+ titles across mobile and web platforms — 200,000+ users served
++ Building STRAG: a national transport infrastructure platform (ASP.NET Core)
++ Developed PvP real-time multiplayer with Photon PUN networked synchronization
++ Web3 fintech: stablecoin on/off-ramp, containerized AWS infrastructure
+```
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🔭 **Currently working on:** STRAG — vehicle profiling, cashless payments, real-time enforcement dashboards
+- 👯 **Looking to collaborate on:** Open-source projects
+- 📫 **Reach me:** [marshalonah@gmail.com](mailto:marshalonah@gmail.com)
+- ⚡ **Catch-phrase:** *"Why So Serious?"*
 
+---
 
-- 📫 How to reach me **MarshalOnah@gmail.com**
+### `>> skills.dll`
 
-- ⚡ Catch-Phrase **Why So Serious?.**
+**Languages & Frameworks**
 
-## 🚀 Languages and Tools:
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="48" height="48"/> </a> 
-    <a href="https://unity.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/unity.png" alt="postman" width="45" height="45"/> </a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="(https://docs.microsoft.com/)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="45" height="45"/> </a> 
-    
-</p>
-<br/>
+**Game Development**
+
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://unity.com/)
+[![Cocos2D](https://img.shields.io/badge/Cocos2D-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)](https://www.cocos.com/)
+
+**Backend & Infrastructure**
+
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://rabbitmq.com/)
+
+**Tools & Workflow**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+---
+
+### `>> stats.exe`
 
 <p align="center">
-    <a href="https://github.com/GhostGramm/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ghost's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GhostGramm&theme=blue-green&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhostGramm&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=58A6FF" alt="GitHub Streak" />
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/GhostGramm/github-readme-stats"><img alt="Marshal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GhostGramm&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/GhostGramm/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostGramm&langs_count=8&count_private=true&layout=compact&theme=blue-green&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/GhostGramm/github-readme-activity-graph"><img alt="Marshsl's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GhostGramm&theme=chartreuse-dark&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href="https://www.linkedin.com/in/marshal-onah-3167061b4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Ghost_Gramm"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/Ghost_Gramm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhostGramm&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&text_color=FFFFFF&title_color=00FF41" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostGramm&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" height="180" />
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=GhostGramm">
-</a>
-<a href="https://github.com/Nnvedward?tab=followers"><img src="https://img.shields.io/github/followers/GhostGramm?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhostGramm&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41" width="95%" />
+</p>
+
+---
+
+### `>> connect.exe`
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marshal-onah-3167061b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Ghost_Gramm"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/Ghost_Gramm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:marshalonah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  <sub><code>// "Why So Serious?" — GHOST</code></sub>
+</div>
