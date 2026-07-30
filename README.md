@@ -71,8 +71,9 @@
 ### `>> stats.exe`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GhostGramm&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=58A6FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GhostGramm&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GhostGramm&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&text_color=FFFFFF&title_color=00FF41" height="180" />
